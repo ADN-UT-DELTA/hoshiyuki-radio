@@ -1,8 +1,8 @@
 {
   "format": "myradio/station-1",
   "name": "星雪放送局",
-  "description": "ゲームとAIの気になるニュースを、短く3本お届けする朝のラジオ。",
-  "tagline": "ゲームとAI、朝の3本。",
+  "description": "ゲームとAI、軽い世間のニュース、それに役立つ情報を、短く3本お届けする朝のラジオ。",
+  "tagline": "ゲーム・AI・世間の話題、朝の3本。",
   "logo": "logo.svg",
   "url": "https://adn-ut-delta.github.io/hoshiyuki-radio/",
   "repo": "https://github.com/ADN-UT-DELTA/hoshiyuki-radio",
