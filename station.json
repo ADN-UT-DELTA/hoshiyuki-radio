@@ -1,33 +1,33 @@
 {
- "format": "myradio/station-1",
- "name": "星雪放送局",
- "description": "ゲームとAIの気になるニュースを、短く3本お届けする朝のラジオ。",
- "tagline": "ゲームとAI、朝の3本。",
- "logo": "logo.svg",
- "url": "https://adn-ut-delta.github.io/hoshiyuki-radio/",
- "repo": "https://github.com/ADN-UT-DELTA/hoshiyuki-radio",
- "language": "ja",
- "languages": [
-  "ja"
- ],
- "schedule": {
-  "every": "day",
-  "time": "08:10",
-  "timezone": "Asia/Tokyo"
- },
- "episodes": "episodes.json",
- "character": {
-  "pack": "character/character.json",
-  "thumbnail": "character/base.png",
-  "note": "AIで生成したキャラクターです"
- },
- "credits": [
-  "声：Muse（試作）"
- ],
- "caster": "声：Muse（試作）",
- "audio": {
-  "dir": "audio",
-  "keep_days": 30
- },
- "weather": false
+  "format": "myradio/station-1",
+  "name": "星雪放送局",
+  "description": "ゲームとAIの気になるニュースを、短く3本お届けする朝のラジオ。",
+  "tagline": "ゲームとAI、朝の3本。",
+  "logo": "logo.svg",
+  "url": "https://adn-ut-delta.github.io/hoshiyuki-radio/",
+  "repo": "https://github.com/ADN-UT-DELTA/hoshiyuki-radio",
+  "language": "ja",
+  "languages": [
+    "ja"
+  ],
+  "schedule": {
+    "every": "day",
+    "time": "08:10",
+    "timezone": "Asia/Tokyo"
+  },
+  "episodes": "episodes.json",
+  "character": {
+    "pack": "character/character.json",
+    "thumbnail": "character/base.png",
+    "note": "AIで生成したキャラクターです"
+  },
+  "credits": [
+    "声：VOICEVOX:四国めたん"
+  ],
+  "caster": "四国めたん（VOICEVOX）",
+  "audio": {
+    "dir": "audio",
+    "keep_days": 30
+  },
+  "weather": false
 }
